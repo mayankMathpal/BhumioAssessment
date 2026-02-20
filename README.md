@@ -33,6 +33,6 @@ If the API returns a 503 (Busy) error, the app automatically retries up to 3 tim
 
 ## Setup
 
-1. `npx create-next-app@latest payment-app`
+1. `npx create-next-app@latest payment-app` then clone the repo
 2. `npm install`
 3. `npm run dev`
